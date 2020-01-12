@@ -27,3 +27,5 @@ https://www.iks.rwth-aachen.de/en/research/tools-downloads/databases/multi-chann
 http://www.dreams-itn.eu/index.php/dissemination/science-blogs/24-rir-databases
 
 https://github.com/Marvin182/rir-database
+
+https://www.youtube.com/watch?v=frN_UsNtyGw
