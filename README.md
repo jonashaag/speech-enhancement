@@ -11,3 +11,11 @@ https://reverb2014.dereverberation.com/
 https://acecorpus.ee.ic.ac.uk/
 
 https://kuleshov.github.io/audio-super-res/
+
+https://en.wikipedia.org/wiki/Mel-frequency_cepstrum
+
+https://pyroomacoustics.readthedocs.io/
+
+https://www.vsl.co.at/
+
+https://odeon.dk/
