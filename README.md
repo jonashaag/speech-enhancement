@@ -19,3 +19,11 @@ https://pyroomacoustics.readthedocs.io/
 https://www.vsl.co.at/
 
 https://odeon.dk/
+
+http://isophonics.net/content/room-impulse-response-data-set
+
+https://www.iks.rwth-aachen.de/en/research/tools-downloads/databases/multi-channel-impulse-response-database/
+
+http://www.dreams-itn.eu/index.php/dissemination/science-blogs/24-rir-databases
+
+https://github.com/Marvin182/rir-database
