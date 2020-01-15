@@ -31,3 +31,5 @@ https://github.com/Marvin182/rir-database
 https://www.youtube.com/watch?v=frN_UsNtyGw
 
 https://github.com/DavidDiazGuerra/gpuRIR
+
+https://dsp.stackexchange.com/questions/35360/determine-sound-intensity-in-spl/35366
