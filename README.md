@@ -33,3 +33,5 @@ https://www.youtube.com/watch?v=frN_UsNtyGw
 https://github.com/DavidDiazGuerra/gpuRIR
 
 https://dsp.stackexchange.com/questions/35360/determine-sound-intensity-in-spl/35366
+
+https://www.innerfidelity.com/content/harman-tweaks-its-headphone-target-response
