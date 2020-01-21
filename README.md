@@ -35,3 +35,7 @@ https://github.com/DavidDiazGuerra/gpuRIR
 https://dsp.stackexchange.com/questions/35360/determine-sound-intensity-in-spl/35366
 
 https://www.innerfidelity.com/content/harman-tweaks-its-headphone-target-response
+
+https://dsp.stackexchange.com/questions/33957/what-is-the-difference-between-the-psd-and-the-power-spectrum
+
+https://gist.github.com/danstowell/f2d81a897df9e23cc1da
