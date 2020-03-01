@@ -39,3 +39,5 @@ https://www.innerfidelity.com/content/harman-tweaks-its-headphone-target-respons
 https://dsp.stackexchange.com/questions/33957/what-is-the-difference-between-the-psd-and-the-power-spectrum
 
 https://gist.github.com/danstowell/f2d81a897df9e23cc1da
+
+https://github.com/IoSR-Surrey/IoSR_ListeningRoom_BRIRs
