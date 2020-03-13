@@ -41,3 +41,7 @@ https://dsp.stackexchange.com/questions/33957/what-is-the-difference-between-the
 https://gist.github.com/danstowell/f2d81a897df9e23cc1da
 
 https://github.com/IoSR-Surrey/IoSR_ListeningRoom_BRIRs
+
+https://github.com/titu1994/keras-squeeze-excite-network
+
+https://github.com/ozan-oktay/Attention-Gated-Networks
