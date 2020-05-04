@@ -6,7 +6,7 @@ import tqdm
 import tqdm.contrib.concurrent
 import random
 
-model = tf.keras.models.load_model('small-rooms.model')
+model = tf.keras.models.load_model('small-rooms-magspec.model')
 
 out = open(sys.argv[2], 'w')
 
