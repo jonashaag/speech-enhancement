@@ -4,7 +4,7 @@ https://arxiv.org/abs/2003.09815 code available, has many problems, no good resu
 
 https://arxiv.org/pdf/1904.07294.pdf no code, PESQ scores too good to be true?, code requested
 
-https://arxiv.org/pdf/2002.12794.pdf code available. try also with DCT?
+https://arxiv.org/pdf/2002.12794.pdf code available. try also with DCT? does not work for dereverberation (requires noise-only samples)
 
 https://arxiv.org/pdf/2004.04098.pdf no code, code requested
 
