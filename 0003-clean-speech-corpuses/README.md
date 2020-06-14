@@ -5,3 +5,5 @@ https://github.com/microsoft/MS-SNSD 500h from 2150 speakers, quality medium to 
 https://catalog.ldc.upenn.edu/LDC95S24
 
 https://catalog.ldc.upenn.edu/LDC2014S03
+
+https://keithito.com/LJ-Speech-Dataset/
