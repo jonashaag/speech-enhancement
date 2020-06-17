@@ -12,3 +12,4 @@ List of models with downloadable pretrained checkpoints
 - https://github.com/ShiZiqiang/dual-path-RNNs-DPRNNs-based-speech-separation
 - https://github.com/JusperLee/Conv-TasNet
 - https://github.com/JusperLee/Deep-Clustering-for-Speech-Separation
+- https://github.com/facebookresearch/demucs/
