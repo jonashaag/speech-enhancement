@@ -11,3 +11,7 @@ Google Visqol metric is good but slower than PESQ.
 POLQA is commercial with no free reference implementation
 
 Or simply use DCT based spectrograms to avoid phase problem? https://arxiv.org/pdf/1910.07840.pdf
+
+PMSQE seems to not perform well: On Loss Functions for Supervised Monaural Time-Domain Speech Enhancement
+
+SI-SDR seems to work fine for most cases, but should account for time-shifted signals when evaluating systems that were trained using a spectrogram loss.
