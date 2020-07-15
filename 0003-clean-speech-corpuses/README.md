@@ -9,3 +9,5 @@ https://catalog.ldc.upenn.edu/LDC95S24
 https://catalog.ldc.upenn.edu/LDC2014S03
 
 https://keithito.com/LJ-Speech-Dataset/
+
+https://archive.org/details/daps_dataset
