@@ -15,3 +15,9 @@ Or simply use DCT based spectrograms to avoid phase problem? https://arxiv.org/p
 PMSQE seems to not perform well: On Loss Functions for Supervised Monaural Time-Domain Speech Enhancement
 
 SI-SDR seems to work fine for most cases, but should account for time-shifted signals when evaluating systems that were trained using a spectrogram loss.
+
+https://ieeexplore.ieee.org/abstract/document/9052949
+
+https://github.com/gabrielmittag/NISQA
+
+https://ieeexplore.ieee.org/abstract/document/7602933
